@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAVICS CLINIC</title>
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="icon" href="./img/Mask Button.png">
+    <meta name="viewport" content="width=device-width, intial-scale=1">
+</head>
+
+<body>
+
+    <!-- the navigation area   for the medical website-->
+
+    <section class="banner">
+        <a href=""><img src="./img/images (2).jpg" alt="clinic" class="logo"></a>
+    </section>
+
+    <div id="sideNav">
+        <nav>
+            <ul>
+                <li><a href="./index.html">HOME</a></li>
+                <li><a href="./index.html#men">MENS' TESTS</a></li>
+                <li><a href="./index.html#women">WOMENS' TESTS</a></li>
+                <li><a href="./index.html#kids">KIDS' TESTS</a></li>
+                <li><a href="./contact.html">ABOUT US</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <div id="menuBtn">
+        <img src="./img/J-Shoes.png" alt="menu button" id="menu">
+    </div>
+
+
+    <script>
+        var menuBtn = document.getElementById("menuBtn")
+        var sideNav = document.getElementById("sideNav")
+        var menu = document.getElementById("menu")
+
+        sideNav.style.right = "-250px"
+
+        menuBtn.onclick = function () {
+            if (sideNav.style.right == "-250px") {
+                sideNav.style.right = "0";
+                menu.src = "./img/Mask Button.png";
+            }
+            else {
+                sideNav.style.right = "-250px";
+                menu.src = "./img/J-Shoes.png";
+            }
+        }
+    </script>
+
+<!-- The ready for a test par t of our application -->
+
+
+
+
+
+
+
+    <script src="./js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
