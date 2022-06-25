@@ -216,3 +216,43 @@ button {
         background-color: green;
     }   
 }
+
+/* Styling the single Tests section  */
+.singleTalk{
+    text-align: center;
+}
+.singleTalk h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+}
+.singleTests{
+    text-align: left;
+}
+.singleTests h6{
+    margin-left: 40px;
+}
+.singleTests p{
+    font-size: 20px;
+    font-weight: 350;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.purchase{
+    color: white;
+    margin-left: 24px;
+}
+.purchase button{
+    width: 120px;
+    padding: 13px 5px;
+    text-align: center;
+    margin: 10px 10px;
+    font-weight: bold;
+    background-color: green;
+    border-radius: 5px;
+    height: 60px;
+    
+}
+.purchase a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
