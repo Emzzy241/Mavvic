@@ -372,6 +372,7 @@ button {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+
 /* Styling the span section is our Services */
 #free{
     color: green;
@@ -409,3 +410,33 @@ button {
     font-weight: 500;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Styling the why choose us section  */
+
+.paye{
+    margin-left: 60px;
+}
+
+.paye h5{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
+    font-size: 22px;
+}
+.paye p{
+    color: black;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paye h2{
+    color: black;
+    font-weight: 530;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 33px;
+}
+.paye h6{
+    color: black;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
