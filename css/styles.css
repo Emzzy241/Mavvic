@@ -212,7 +212,14 @@ button {
 
 @media screen and (max-width: 770px){
     .menTests{
-        height: 6750px;
+        height: 6950px;
+        background-color: green;
+    }   
+}
+
+@media screen and (max-width: 1024){
+    .menTests{
+        height: 6950px;
         background-color: green;
     }   
 }
