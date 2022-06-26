@@ -580,3 +580,36 @@ button {
         height: 2500px;
     }
 }
+
+/* Styling the footer section  */
+
+#footer{
+    text-align: center;
+    
+}
+#footer .container{
+    background-color: darkgreen;
+}
+
+.footerTxt{
+    margin-top: 100px;
+    
+}
+.footerTxt a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.footerTxt h2{
+    display: inline-flex;
+    margin-left: 50px;
+    font-size: 19px;
+}
+.footerTxt a:hover{
+    color: green;
+}
+.footerTxt p{
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;   
+}
