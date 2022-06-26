@@ -463,3 +463,29 @@ button {
 .goals img{
     margin-left: 40px;
 }
+
+
+/* The comments section  */
+
+#comments .com{
+    
+    text-align: center;
+}
+#comments .com h2{
+    color: white;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+}
+#comments .com p{
+    font-size: 20px;
+    font-weight: 350;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#comments .com h6{
+    font-size: 23px;
+    font-weight: 547;
+    font-family: Arial, Helvetica, sans-serif;
+}
