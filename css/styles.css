@@ -45,7 +45,7 @@ section img {
     top: 0;
     background: darkgreen;
     z-index: 2;
-    transition: 0.5s;
+    transition: 1.0s;
 
 }
 
