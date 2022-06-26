@@ -613,3 +613,29 @@ button {
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;   
 }
+
+/* Styling the contact section  */
+.cont h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+    color: darkblue;
+}
+.cont p{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.cont h2{
+    margin-left: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 34px;
+    color: darkblue;
+}
+.cont a{
+    color: black;
+    text-decoration: none;
+}
+.cont a:hover{
+    color: blue;
+    text-decoration: underline;
+}
