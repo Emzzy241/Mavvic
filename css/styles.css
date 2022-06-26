@@ -190,10 +190,11 @@ button {
     font-size: 15px;
 }
 
-.what{
+.what {
     text-align: center;
 }
-.what button{
+
+.what button {
     width: 120px;
     padding: 13px 5px;
     text-align: center;
@@ -202,52 +203,59 @@ button {
     background-color: green;
     border-radius: 5px;
     height: 60px;
-    
+
 }
-.what a{
+
+.what a {
     text-decoration: none;
     color: white;
     font-size: 15px;
 }
 
-@media screen and (max-width: 770px){
-    .menTests{
+@media screen and (max-width: 770px) {
+    .menTests {
         height: 6950px;
         background-color: green;
-    }   
+    }
 }
 
-@media screen and (max-width: 1024){
-    .menTests{
+@media screen and (max-width: 1024) {
+    .menTests {
         height: 6950px;
         background-color: green;
-    }   
+    }
 }
 
 /* Styling the single Tests section  */
-.singleTalk{
+.singleTalk {
     text-align: center;
 }
-.singleTalk h2{
+
+.singleTalk h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-transform: capitalize;
 }
-.singleTests{
+
+.singleTests {
     text-align: left;
 }
-.singleTests h6{
+
+.singleTests h6 {
     margin-left: 40px;
 }
-.singleTests p{
+
+.singleTests p {
     font-size: 20px;
     font-weight: 350;
     font-family: Arial, Helvetica, sans-serif;
 }
-.purchase{
+
+.purchase {
     color: white;
     margin-left: 24px;
 }
-.purchase button{
+
+.purchase button {
     width: 120px;
     padding: 13px 5px;
     text-align: center;
@@ -256,19 +264,21 @@ button {
     background-color: green;
     border-radius: 5px;
     height: 60px;
-    
+
 }
-.purchase a{
+
+.purchase a {
     text-decoration: none;
     color: white;
     font-size: 15px;
 }
 
-.buttn{
+.buttn {
     color: white;
     text-align: center;
 }
-.buttn button{
+
+.buttn button {
     width: 150px;
     padding: 13px 5px;
     text-align: center;
@@ -279,12 +289,14 @@ button {
     height: 60px;
     color: #009688;
 }
-.buttn a{
+
+.buttn a {
     text-decoration: none;
     color: white;
     font-size: 15px;
 }
-.buttn p{
+
+.buttn p {
     color: black;
     font-size: 20px;
     font-weight: 500;
@@ -293,31 +305,34 @@ button {
 
 /* Styling the helpTest div section  */
 
-#helpTest .compImage{
+#helpTest .compImage {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), green), url(../img/istockphoto-470731180-612x612.jpg);
     background-size: cover;
     height: 600px;
     width: 100%;
-    
+
 }
-.compImage h1{
+
+.compImage h1 {
     color: white;
     margin-left: 30px;
     margin-top: 100px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 48px;
 }
-.compImage  h3{
+
+.compImage h3 {
     color: white;
     margin-left: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.callButton{
+.callButton {
     color: white;
     text-align: center;
 }
-.callButton button{
+
+.callButton button {
     width: 100%;
     padding: 13px 5px;
     text-align: center;
@@ -326,17 +341,20 @@ button {
     background-color: darkcyan;
     border-radius: 5px;
     height: 60px;
-    
+
 }
-.callButton button:hover{
+
+.callButton button:hover {
     background-color: darkgreen;
 }
-.callButton a{
+
+.callButton a {
     text-decoration: none;
     color: white;
     font-size: 20px;
 }
-.callButton p{
+
+.callButton p {
     color: black;
     font-size: 20px;
     font-weight: 500;
@@ -345,28 +363,31 @@ button {
 
 
 /* Styling the our services section */
-.pay{
+.pay {
     text-align: center;
 }
 
-.pay h5{
+.pay h5 {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 550;
     font-size: 22px;
 }
-.pay p{
+
+.pay p {
     color: black;
     font-weight: 500;
     font-family: Arial, Helvetica, sans-serif;
 }
-.pay h2{
+
+.pay h2 {
     color: black;
     font-weight: 530;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 33px;
 }
-.pay h6{
+
+.pay h6 {
     color: black;
     font-weight: 600;
     font-family: Arial, Helvetica, sans-serif;
@@ -374,18 +395,19 @@ button {
 
 
 /* Styling the span section is our Services */
-#free{
+#free {
     color: green;
     font-size: 15px;
 }
 
 /* The button for "giving mavics a try" */
 
-.try{
+.try {
     color: white;
     text-align: center;
 }
-.try button{
+
+.try button {
     width: 250px;
     padding: 13px 5px;
     text-align: center;
@@ -394,17 +416,20 @@ button {
     background-color: green;
     border-radius: 5px;
     height: 60px;
-    
+
 }
-.try button:hover{
+
+.try button:hover {
     background-color: darkgreen;
 }
-.try a{
+
+.try a {
     text-decoration: none;
     color: white;
     font-size: 15px;
 }
-.try p{
+
+.try p {
     color: black;
     font-size: 20px;
     font-weight: 500;
@@ -413,28 +438,31 @@ button {
 
 /* Styling the why choose us section  */
 
-.paye{
+.paye {
     margin-left: 60px;
 }
 
-.paye h5{
+.paye h5 {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 550;
     font-size: 22px;
 }
-.paye p{
+
+.paye p {
     color: black;
     font-weight: 500;
     font-family: Arial, Helvetica, sans-serif;
 }
-.paye h2{
+
+.paye h2 {
     color: black;
     font-weight: 530;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 33px;
 }
-.paye h6{
+
+.paye h6 {
     color: black;
     font-weight: 600;
     font-family: Arial, Helvetica, sans-serif;
@@ -443,56 +471,75 @@ button {
 
 /* The goals section  */
 
-#goals .backg{
+#goals .backg {
     background-image: url(../img/istockphoto-470731180-612x612.jpg);
     width: 100%;
     height: 1100px;
     background-size: cover;
 }
-.goals{
+
+.goals {
     text-align: center;
 }
+
 /* .goals h6{
     margin-left: 40px;
 } */
-.goals p{
+.goals p {
     font-size: 20px;
     font-weight: 350;
     font-family: Arial, Helvetica, sans-serif;
 }
-.goals img{
+
+.goals img {
     margin-left: 40px;
 }
 
 
 /* The comments section  */
 
-#comments .com{
-    
+#comments .com {
+
     text-align: center;
 }
-#comments .com h2{
+
+#comments .com h2 {
     color: white;
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
     font-weight: bolder;
 }
-#comments .com p{
+
+#comments .com p {
     font-size: 20px;
     font-weight: 350;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#comments .com h6{
+#comments .com h6 {
     font-size: 23px;
     font-weight: 547;
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.com h1 {
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
-@media screen and (max-width: 770px){
-    #goals{
+
+.com h2 {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+
+@media screen and (max-width: 770px) {
+    #goals {
         height: 2500px;
     }
 }
